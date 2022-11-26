@@ -31,6 +31,39 @@ Front-end web development, also known as client-side development is the practice
 [DNS || EN](https://www.youtube.com/watch?v=mpQZVYPuDGU) 🎬 [DNS || AR](https://www.youtube.com/watch?v=9Xz7_MxVYCU) 🎬
 
 # 3- Basic Tools:
-Text Editor | Browser
+
+<table align="center">
+    <thead align="center">
+      <tr border: none;>
+        <td><b>Text Editor :writing_hand:</b></td>
+        <td><b>Browser :globe_with_meridians:</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://code.visualstudio.com/" target="_blank"><b>VS Code :ballot_box_with_check:</b></a></td>
+        <td><a href="https://www.google.com/chrome/" target="_blank"><b>Google Chrome :ballot_box_with_check:</b></a></td
+      </tr>
+      <tr>
+        <td><a href="https://atom.io/" target="_blank"><b>Atom</b></a></td>
+        <td><a href="https://www.microsoft.com/en-us/edge" target="_blank"><b>Microsoft Edge</b></a></td>
+      </tr>
+      <tr>
+        <td><a href="https://www.jetbrains.com/webstorm/" target="_blank"><b>WebStorm</b></a></td>
+        <td><a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"><b>Mozilla Firefox</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+# 3- Level One:
+<table>
+  <thead>
+    <th><a href="#HTML">HTML</a></th>
+    <th><a href="#CSS">CSS</a></th>
+    <th><a href="#Practice">Practice</a></th>
+    </thead>
+  </table>
 
 
+# 4- HTML

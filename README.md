@@ -59,9 +59,11 @@ Front-end web development, also known as client-side development is the practice
 # 3- Level One:
 <table>
   <thead>
-    <th><a href="#HTML">HTML</a></th>
+    <th><a href="# 4- HTML">HTML</a></th>
     <th><a href="#CSS">CSS</a></th>
     <th><a href="#Practice">Practice</a></th>
+      <th><a href="#Practice">JavaScript</a></th>
+      <th><a href="#Practice">Practice All</a></th>
     </thead>
   </table>
 
